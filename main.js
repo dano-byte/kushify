@@ -563,10 +563,10 @@ function cheatNow() {
         money = 5000;
         weed = 5000;
         fertilizer = 5000;
-    } else if (cheat == 'cmoune') {
-        money = 100000;
-        weed = 100000;
-        fertilizer = 100000;
+    } else if (cheat == 'joe') {
+        money = 10000000000;
+        weed = 100000000000;
+        fertilizer = 100000000000000;
     };
 }
 
